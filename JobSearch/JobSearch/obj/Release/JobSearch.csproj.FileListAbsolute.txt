@@ -1,0 +1,16 @@
+C:\Users\Alpa Desai\Documents\source\repos\JobSearch\JobSearch\JobSearch\bin\Release\JobSearch.exe.config
+C:\Users\Alpa Desai\Documents\source\repos\JobSearch\JobSearch\JobSearch\bin\Release\JobSearch.exe
+C:\Users\Alpa Desai\Documents\source\repos\JobSearch\JobSearch\JobSearch\bin\Release\JobSearch.pdb
+C:\Users\Alpa Desai\Documents\source\repos\JobSearch\JobSearch\JobSearch\obj\Release\JobSearch.csproj.AssemblyReference.cache
+C:\Users\Alpa Desai\Documents\source\repos\JobSearch\JobSearch\JobSearch\obj\Release\JobSearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alpa Desai\Documents\source\repos\JobSearch\JobSearch\JobSearch\obj\Release\MainWindow.g.cs
+C:\Users\Alpa Desai\Documents\source\repos\JobSearch\JobSearch\JobSearch\obj\Release\App.g.cs
+C:\Users\Alpa Desai\Documents\source\repos\JobSearch\JobSearch\JobSearch\obj\Release\JobSearch_MarkupCompile.cache
+C:\Users\Alpa Desai\Documents\source\repos\JobSearch\JobSearch\JobSearch\obj\Release\JobSearch_MarkupCompile.lref
+C:\Users\Alpa Desai\Documents\source\repos\JobSearch\JobSearch\JobSearch\obj\Release\MainWindow.baml
+C:\Users\Alpa Desai\Documents\source\repos\JobSearch\JobSearch\JobSearch\obj\Release\JobSearch.g.resources
+C:\Users\Alpa Desai\Documents\source\repos\JobSearch\JobSearch\JobSearch\obj\Release\JobSearch.Properties.Resources.resources
+C:\Users\Alpa Desai\Documents\source\repos\JobSearch\JobSearch\JobSearch\obj\Release\JobSearch.csproj.GenerateResource.cache
+C:\Users\Alpa Desai\Documents\source\repos\JobSearch\JobSearch\JobSearch\obj\Release\JobSearch.csproj.CoreCompileInputs.cache
+C:\Users\Alpa Desai\Documents\source\repos\JobSearch\JobSearch\JobSearch\obj\Release\JobSearch.exe
+C:\Users\Alpa Desai\Documents\source\repos\JobSearch\JobSearch\JobSearch\obj\Release\JobSearch.pdb
