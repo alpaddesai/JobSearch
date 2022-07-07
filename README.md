@@ -8,4 +8,3 @@ Please download the executable in https://github.com/alpaddesai/JobSearch/releas
 ![image](StartEmploymentImage.jpg)
 
 Additional details reference : https://github.com/alpaddesai/TestScores
-
