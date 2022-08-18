@@ -7,7 +7,7 @@ Please download the executable in https://github.com/alpaddesai/JobSearch/releas
 ## Employment Search
 ![image](StartEmploymentImage.jpg)
 
-## '15 
+## GMAT Test Score  
 ![image](GMATImage9.jpg)
 
 Additional details reference:  https://github.com/alpaddesai/GraduateDegrees and https://github.com/alpaddesai/MedicalDevices.
