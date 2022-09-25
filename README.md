@@ -7,4 +7,6 @@ Please download the executable in https://github.com/alpaddesai/JobSearch/releas
 ## Employment Search
 ![image](StartEmploymentImage.jpg)
 
+![image](USCopyrightCertificate.png)
+
 Tier III Job search: Additional details reference:  https://github.com/alpaddesai/GraduateDegrees and https://github.com/alpaddesai/MedicalDevices.
