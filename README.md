@@ -7,19 +7,19 @@ Please download the executable in https://github.com/alpaddesai/JobSearch/releas
 ## Employment Search
 ![image](StartEmploymentImage.jpg)
 
-## Cover Letters 
+## Sample Cover Letters 
 ![image](CoverLettersI.jpg)
 
-## Cover Letters
+## Sample Cover Letters
 ![image](CoverLettersII.jpg)
 
-## Cover Letters
+## Sample Cover Letters
 ![image](CoverLettersIII.jpg)
 
-## Cover Letter Presentation
+## Sample Cover Letter Presentation
 ![image](CoverLettersPresentationI.jpg)
 
-## Cover Letter Presentation 
+## Sample Cover Letter Presentation 
 ![image](CoverLettersPresentationII.jpg)
 
 ![image](USCopyrightCertificate.png)
