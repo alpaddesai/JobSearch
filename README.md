@@ -9,4 +9,13 @@ Please download the executable in https://github.com/alpaddesai/JobSearch/releas
 
 ![image](USCopyrightCertificate.png)
 
+## Cover Letters 
+![image](CoverLettersI.jpg)
+
+## Cover Letters
+![image](CoverLettersII.jpg)
+
+# Cover Letters
+![image](CoverLettersIII.jpg)
+
 Tier III Job search: Additional details reference:  https://github.com/alpaddesai/GraduateDegrees and https://github.com/alpaddesai/MedicalDevices.
