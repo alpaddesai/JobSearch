@@ -22,6 +22,10 @@ Please download the executable in https://github.com/alpaddesai/JobSearch/releas
 ## Sample Cover Letter Presentation 
 ![image](CoverLettersPresentationII.jpg)
 
+## Certificate
 ![image](USCopyrightCertificate.png)
+
+## Ethics
+![image](Ethics.jpg)
 
 Tier III Job search: Additional details reference:  https://github.com/alpaddesai/GraduateDegrees and https://github.com/alpaddesai/MedicalDevices.
