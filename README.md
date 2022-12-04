@@ -7,6 +7,8 @@ Please download the executable in https://github.com/alpaddesai/JobSearch/releas
 ## Employment Search
 ![image](StartEmploymentImage.jpg)
 
+### https://www.eeoc.gov/
+
 ## Sample Cover Letters 
 ![image](CoverLettersI.jpg)
 
