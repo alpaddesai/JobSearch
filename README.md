@@ -7,7 +7,7 @@ Please download the executable in https://github.com/alpaddesai/JobSearch/releas
 ## Employment Search
 ![image](StartEmploymentImage.jpg)
 
-### Details reference https://www.eeoc.gov/ and https://www.dol.gov/
+#### Legal aid reference https://www.eeoc.gov/ and https://www.dol.gov/
 
 ## Sample Cover Letters 
 ![image](CoverLettersI.jpg)
