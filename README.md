@@ -34,6 +34,11 @@ Please download the executable in https://github.com/alpaddesai/JobSearch/releas
 ## Sample Cover Letters
 ![image](CoverLettersVI.jpg)
 
+## Sample Cover Letters
+![image](CoverLettersVII.jpg)
+
+## Sample Cover Letters
+
 ## Certificate
 ![image](USCopyrightCertificate.png)
 
