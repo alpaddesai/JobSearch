@@ -9,7 +9,6 @@ Please download the executable in https://github.com/alpaddesai/JobSearch/releas
 
 #### Legal aid reference https://www.eeoc.gov/ and https://www.dol.gov/
 
-### Mostly 2015
 ## Sample Cover Letters 
 ![image](CoverLettersI.jpg)
 
