@@ -15,4 +15,4 @@ Please download the executable in https://github.com/alpaddesai/JobSearch/releas
 ## Ethics
 ![image](Ethics.jpg)
 
-Tier III Job search: Additional details reference:  https://github.com/alpaddesai/GraduateDegrees and https://github.com/alpaddesai/CoverLetters
+Tier III Job search: Additional details reference:  https://github.com/alpaddesai/GraduateDegrees 
