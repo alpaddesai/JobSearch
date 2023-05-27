@@ -15,4 +15,4 @@ All images are custom by Alpa D Desai
 ## Ethics
 ![image](Ethics.jpg)
 
-Tier III Job search: Additional details reference:  https://github.com/alpaddesai/GraduateDegrees 
+Job search: Additional details reference:  https://github.com/alpaddesai/GraduateDegrees 
